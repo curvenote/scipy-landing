@@ -6,10 +6,8 @@ root: index
 chapters:
   - file: proceedings
     sections:
-      - file: '2024'
       - file: '2023'
       - file: '2022'
-      - file: '2021'
   - file: archive
   - file: past-conferences
   - file: news
