@@ -4,5 +4,5 @@ title: Proceedings
 
 ```{cn:collections}
 :venue: scipy
-:exclude: articles
+:exclude: articles, 2024
 ```
