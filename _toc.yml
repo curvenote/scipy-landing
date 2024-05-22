@@ -4,14 +4,9 @@
 format: jb-book
 root: index
 chapters:
-  - file: proceedings
-    sections:
-      - file: '2023'
-      - file: '2022'
-      - file: '2021'
-      - file: '2020'
-      - file: '2019'
-      - file: '2018'
+  - file: all-proceedings
+  - file: '2023'
+  - file: '2022'
   - file: archive
   - file: past-conferences
   - file: news
