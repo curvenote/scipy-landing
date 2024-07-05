@@ -9,7 +9,7 @@ site:
     - title: Learn More
       url: https://curvenote.com/docs/web
   domains:
-    # - scipy-landing.curve.space
+    - scipy-landing.curve.space
     - scipy-landingstaging.curve.space
 project:
   title: Home
