@@ -13,7 +13,26 @@ tags: []
 keywords: []
 ---
 
-+++ {"oxa":"oxa:SB8OiXZDvFEIzCMnnuGf/AXlhPl4M2d6GAhI4K8Op.2","tags":[]}
++++ { "class": "text-center my-2 text-xl" }
+**From the 2023 Proceedings**
++++
+
+```{cn:articles}
+:venue: scipy
+:collection: 2023
+:limit: 4
+:show-thumbnails: true
+:show-date: false
+:show-kind: false
+:show-authors: true
+:show-doi: true
+```
+
++++ { "class": "text-center my-2" }
+
+[See All 2023 Articles](/2023)
+
++++
 
 The annual SciPy Conferences allows participants from academic, commercial, and governmental organizations to:
 
