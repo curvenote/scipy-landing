@@ -15,6 +15,10 @@ keywords: []
 
 ```{hero} SciPy Proceedings
 :kicker: Science in Python
+:class: col-screen
+:background-image: images/hero.webp
+:overlay: 70, 50, 0
+:max-width: 100, 70, 50
 :actions: [Browse all proceedings](/proceedings)
 
 The Proceedings of the Science in Python Conferences: peer-reviewed articles on the latest Scientific Python projects.
