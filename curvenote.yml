@@ -16,9 +16,9 @@ project:
   description: The Proceedings of the Science in Python Conferences
   short_title: ''
   keywords: []
-  name: landing
   open_access: true
-  license: {}
   subject: SciPy Proceedings
   plugins:
-    - banner.mjs
+    - type: javascript
+      path: plugins/magazine.mjs
+  id: 01a0e6e9-f40e-7208-a629-1b06deabc6a6

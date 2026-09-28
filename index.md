@@ -13,24 +13,30 @@ tags: []
 keywords: []
 ---
 
-+++ { "class": "text-center my-2 text-xl" }
-**From the 2023 Proceedings**
-+++
+```{hero} SciPy Proceedings
+:kicker: Science in Python
+:actions: [Browse all proceedings](/proceedings)
+
+The Proceedings of the Science in Python Conferences: peer-reviewed articles on the latest Scientific Python projects.
+```
 
 ```{cn:articles}
 :venue: scipy
-:collection: 2023
-:limit: 4
+:layout: cards
+:collection: 2022
 :show-thumbnails: true
-:show-date: false
-:show-kind: false
 :show-authors: true
-:show-doi: true
+:show-count: true
 ```
 
-+++ { "class": "text-center my-2" }
-
-[See All 2023 Articles](/2023)
+```{cn:articles}
+:venue: scipy
+:layout: cards
+:collection: proceedings
+:show-thumbnails: true
+:show-authors: true
+:show-count: true
+```
 
 +++
 
